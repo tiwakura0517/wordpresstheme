@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-05-20 14:19+0900\n"
+"PO-Revision-Date: 2014-05-21 07:23+0900\n"
 "Last-Translator: Toshio Iwakura <tiwakura@shimin.or.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "X-Generator: Poedit 1.6.5\n"
@@ -29,7 +29,7 @@ msgstr ""
 
 #: 404.php:24
 msgid "Most Used Categories"
-msgstr ""
+msgstr "最も利用されるカテゴリ"
 
 #: 404.php:31
 msgid "Try looking in the monthly archives. %1$s"
@@ -37,31 +37,31 @@ msgstr ""
 
 #: archive.php:14
 msgid "Daily Archives: %s"
-msgstr ""
+msgstr "日別アーカイブ"
 
 #: archive.php:16
 msgid "Monthly Archives: %s"
-msgstr ""
+msgstr "月別アーカイブ"
 
 #: archive.php:18
 msgid "Yearly Archives: %s"
-msgstr ""
+msgstr "年別アーカイブ"
 
 #: archive.php:20
 msgid "Blog Archives"
-msgstr ""
+msgstr "ブログアーカイブ"
 
 #: author.php:12
 msgid "Author Archives: %s"
-msgstr ""
+msgstr "投稿者アーカイブ"
 
 #: author.php:27 content-single.php:56
 msgid "About %s"
-msgstr ""
+msgstr "%s　について"
 
 #: category.php:13
 msgid "Category Archives: %s"
-msgstr ""
+msgstr "カテゴリーアーカイブ: %s"
 
 #: comments.php:15
 msgctxt "comments title"
@@ -72,7 +72,7 @@ msgstr[1] ""
 
 #: comments.php:22 comments.php:34
 msgid "Comment navigation"
-msgstr ""
+msgstr "コメントナビゲーション"
 
 #: comments.php:23 comments.php:35
 msgid "&larr; Older Comments"
@@ -84,7 +84,7 @@ msgstr ""
 
 #: comments.php:46
 msgid "Comments are closed."
-msgstr ""
+msgstr "コメントは受け付けていません"
 
 #: content-aside.php:13 content-link.php:13 content-status.php:13
 #: content.php:28
@@ -94,25 +94,25 @@ msgstr ""
 #: content-aside.php:13 content-link.php:13 content-status.php:13
 #: content.php:28
 msgid "1"
-msgstr ""
+msgstr "１"
 
 #: content-aside.php:13 content-link.php:13 content-status.php:13
 #: content.php:28
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: content-aside.php:20 content-aside.php:24 content-gallery.php:27
 #: content-gallery.php:32 content-link.php:20 content-link.php:24
 #: content-status.php:20 content-status.php:26 content.php:35 content.php:39
 #: functions.php:122
 msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "続きを見る <span class=\"meta-nav\">&rarr;</span>"
 
 #: content-aside.php:25 content-featured.php:28 content-gallery.php:69
 #: content-intro.php:14 content-link.php:25 content-page.php:14
 #: content-status.php:27 image.php:84
 msgid "Pages:"
-msgstr ""
+msgstr "ページ：　"
 
 #: content-aside.php:31 content-featured.php:14 content-gallery.php:13
 #: content-link.php:31 content-single.php:13 content-status.php:33
@@ -150,7 +150,7 @@ msgstr ""
 #: content-single.php:48 content-status.php:46 content.php:55 image.php:35
 #: image.php:99
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 #: content-featured.php:35
 msgid ""
@@ -173,7 +173,7 @@ msgstr[1] ""
 #: content-gallery.php:63 inc/widgets.php:91 inc/widgets.php:106
 #: showcase.php:69 showcase.php:71
 msgid "Permalink to %s"
-msgstr ""
+msgstr "%s　へのパーマリンク"
 
 #: content-gallery.php:74 content.php:46
 msgid "Posted in"
@@ -363,11 +363,11 @@ msgstr ""
 
 #: inc/widgets.php:158
 msgid "Title:"
-msgstr ""
+msgstr "タイトル:"
 
 #: inc/widgets.php:161
 msgid "Number of posts to show:"
-msgstr ""
+msgstr "表示する投稿数"
 
 #: inc/wpcom.php:35
 msgid ""
@@ -382,49 +382,51 @@ msgstr ""
 
 #: search.php:14
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "%s　の検索結果"
 
 #: search.php:32
 msgid "Nothing Found"
-msgstr ""
+msgstr "何も見つけませんでした"
 
 #: search.php:36
 msgid ""
 "Sorry, but nothing matched your search criteria. Please try again with some "
 "different keywords."
 msgstr ""
+"すみませんが、何もあなたの検索基準と一致しませんでした。いくつかの異なるキー"
+"ワードで再び試みてください。"
 
 #: searchform.php:7 searchform.php:8
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: showcase.php:64
 msgid "Featured Post"
-msgstr ""
+msgstr "おすすめの投稿"
 
 #: showcase.php:80
 msgid "Recent Posts"
-msgstr ""
+msgstr "最近の投稿"
 
 #: sidebar.php:10
 msgid "Archives"
-msgstr ""
+msgstr "アーカイブ"
 
 #: sidebar.php:17
 msgid "Meta"
-msgstr ""
+msgstr "メタ"
 
 #: tag.php:15
 msgid "Tag Archives: %s"
-msgstr ""
+msgstr "タグアーカイブ: %s"
 
 #. Theme Name of the plugin/theme
 msgid "Duster"
-msgstr ""
+msgstr "Duster"
 
 #. Theme URI of the plugin/theme
 msgid "http://wordpress.org/extend/themes/duster/"
-msgstr ""
+msgstr "http://wordpress.org/extend/themes/duster/"
 
 #. Description of the plugin/theme
 msgid ""
