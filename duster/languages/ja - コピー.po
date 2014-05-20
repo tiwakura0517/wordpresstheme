@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Duster 1.2\n"
+"POT-Creation-Date: 2014-05-19 09:25+0900\n"
+"PO-Revision-Date: 2014-05-19 09:26+0900\n"
+"Last-Translator: Toshio Iwakura <tiwakura@shimin.or.jp>\n"
+"Language-Team: Toshio Iwakura <tiwakura@shimin.or.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: D:\\User\\Iwakura\\Downloads\\\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;_\n"
+"X-Poedit-SearchPath-0: duster\n"
+
+#: duster/404.php:13
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: duster/404.php:17
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: duster/404.php:24
+msgid "Most Used Categories"
+msgstr ""
+
+#: duster/archive.php:20
+msgid "Blog Archives"
+msgstr ""
+
+#: duster/comments.php:22 duster/comments.php:34
+msgid "Comment navigation"
+msgstr ""
+
+#: duster/comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: duster/content-gallery.php:73 duster/content.php:46
+msgid "Posted in"
+msgstr ""
+
+#: duster/functions.php:234 duster/single.php:14
+msgid "Post navigation"
+msgstr ""
+
+#: duster/functions.php:337
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: duster/functions.php:356
+msgid "Pingback:"
+msgstr ""
+
+#: duster/header.php:65
+msgid "Main menu"
+msgstr ""
+
+#: duster/header.php:66
+msgid "Skip to content"
+msgstr ""
+
+#: duster/image.php:95
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: duster/image.php:97
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: duster/inc/widgets.php:158
+msgid "Title:"
+msgstr ""
+
+#: duster/inc/widgets.php:161
+msgid "Number of posts to show:"
+msgstr ""
+
+#: duster/search.php:32
+msgid "Nothing Found"
+msgstr ""
+
+#: duster/search.php:36
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: duster/showcase.php:64
+msgid "Featured Post"
+msgstr ""
+
+#: duster/showcase.php:80
+msgid "Recent Posts"
+msgstr ""
+
+#: duster/sidebar.php:10
+msgid "Archives"
+msgstr ""
+
+#: duster/sidebar.php:17
+msgid "Meta"
+msgstr ""
